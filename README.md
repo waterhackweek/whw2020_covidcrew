@@ -7,7 +7,7 @@
 
 •	Data Science Lead - 
 
-•	Role - name 
+•	github with Victor and Tian's nwm tutorial's for COVID19 - Christina  
 
 •	Role - name 
 
