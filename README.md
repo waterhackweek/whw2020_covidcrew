@@ -1,6 +1,6 @@
 # whw2020_covidcrew
 
-## Project Title: 
+## Project Title: proj_CovidCrew Philip Version
 
 ## Collaborators on this Project:
 •	Project Lead - 
