@@ -7,7 +7,7 @@
 
 •	Data Science Lead - 
 
-•	Github with Victor and Tian's nwm tutorial's for COVID19 - Christina  
+•	Github - Victor Cannestro 
 
 •	Environmental Public Health Context - Jill Falman and Elaine Faustman 
 
@@ -32,7 +32,9 @@ Public health officials and other governmental decision-makers could use the pre
 ## Data Sources:
 - Viral RNA data (copies/mL) are available for the Deer Island Treatment Plant from the Massachusetts Water Resources Authority from 3 March 2020 - 31 August 2020: http://www.mwra.com/biobot/biobotdata.htm
 - January and February 2020 viral RNA data were inferred from biobanked samples as described in Wu et al. 2020 (pre-print): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7325186/
-- [Add COVID-19 cases and mortality, precipitation, SES, etc.] 
+- [Add COVID-19 cases and mortality data source]
+- Daily mean precipitation and temperature data from 01/01/2020 to 09/01/2020 was summarized for the north and south catchment areas using data from NOAA Climate Data Online- Daily Summaries for Boston City and neartest weather station (USW00014739) to Deer Island Wastewater Treatment Plant: https://www.ncdc.noaa.gov/cdo-web/search. Station locations were obtained from NOAA's station list for GHCN-D data from Historical Observing Metadata Repository: https://www.ncdc.noaa.gov/homr/. Stations for the catchment areas were obtained using clip and spatial join analysis in GIS between north and south catchment areas and station location data points.
+- [SES data source] 
 
 ![ditp](https://github.com/JillFalmanUW/whw2020_covidcrew/blob/master/images/MWRA%20aerial%20view%20of%20DITP.jpg)
 An aerial view of the holding tanks at the Deer Island Treatment Plant; Photo credit: Massachussetts Water Resource Authority
