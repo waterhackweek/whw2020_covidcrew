@@ -102,27 +102,6 @@ Zhang T, Breitbart M, Lee WH, Run J-Q, Wei CL, Soh SWL, Hibberd ML, Liu ET, Rohw
 Zhang N, Gong Y, Meng F, Bi Y, Yang P, Wang F. 2020. Virus shedding patterns in nasopharyngeal and fecal specimens of COVID-19 patients.; doi:10.1101/2020.03.28.20043059.
 
 
-## Development Reference for suggested sections (intially from Christina)
-
-The problem
-
-Application Example
-List one specific application of this work.
-
-Sample data
-If you already have some data to explore, briefly describe it here (size, format, how to access).
-
-Specific Questions
-List the specific tasks you want to accomplish or research questions you want to answer.
-
-Existing methods
-How would you or others traditionally try to address this problem?
-
-Proposed methods/tools
-Building from what you learn at waterhackweek, what new approaches would you like to try to implement?
-
-Background reading
-Optional: links to manuscripts or technical documents for more in-depth analysis.
 
 
 
