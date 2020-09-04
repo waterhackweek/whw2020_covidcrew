@@ -62,7 +62,8 @@ Photo credit: Massachussetts Water Resource Authority
 
 ## Existing methods/tools
 - Ahmed et al. 2020 estimated the prevalence of SARS-CoV-2 infection within the catchment using a mass balance on the total number of viral RNA copies in wastewater each day, as measured in wastewater by RT-qPCR, and the number of SARS-CoV-2 RNA copies shed in stool by an infected individual each day (Eq.(1))
-https://github.com/JillFalmanUW/whw2020_covidcrew/blob/master/Ahmed%20et%20al.%202020%20figure%201%20mass%20balance.png
+
+![](images/Ahmed et al. 2020 figure 1 mass balance.png)
 
 Data to use for Deer Island Treatment Plant:
 - RNA copies/liter wastewater [convert data from treatment plant to liter]
