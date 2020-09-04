@@ -34,7 +34,7 @@ Public health officials and other governmental decision-makers could use the pre
 - January and February 2020 viral RNA data were inferred from biobanked samples as described in Wu et al. 2020 (pre-print): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7325186/
 - [Add COVID-19 cases and mortality, precipitation, SES, etc.] 
 
-INSERT DITP photo
+https://github.com/JillFalmanUW/whw2020_covidcrew/blob/master/MWRA%20aerial%20view%20of%20DITP.jpg
 An aerial view of the holding tanks at the Deer Island Treatment Plant
 Photo credit: Massachussetts Water Resource Authority
 
@@ -62,7 +62,7 @@ Photo credit: Massachussetts Water Resource Authority
 
 ## Existing methods/tools
 - Ahmed et al. 2020 estimated the prevalence of SARS-CoV-2 infection within the catchment using a mass balance on the total number of viral RNA copies in wastewater each day, as measured in wastewater by RT-qPCR, and the number of SARS-CoV-2 RNA copies shed in stool by an infected individual each day (Eq.(1))
-INSERT equation
+https://github.com/JillFalmanUW/whw2020_covidcrew/blob/master/Ahmed%20et%20al.%202020%20figure%201%20mass%20balance.png
 
 Data to use for Deer Island Treatment Plant:
 - RNA copies/liter wastewater [convert data from treatment plant to liter]
