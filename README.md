@@ -5,7 +5,7 @@
 ## Collaborators on this Project:
 •	Project Lead - Philip Murphy
 
-•	Data Science Lead - 
+•	Data Science and Cyberinfrastucture - Christina Bandaragoda and Tony Castronova
 
 •	Github - Victor Cannestro 
 
